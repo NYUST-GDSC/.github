@@ -1,4 +1,4 @@
-![](./doc/header.png)
+![](/profile/doc/header.png)
 
 ---
 
