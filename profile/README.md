@@ -11,7 +11,7 @@
 
 ## 聯絡方式 Contacts
 
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/2k7SbzeByJ)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/qgZpAbWVV8)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/gdsc_nyust/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto://gdsc_nyust@googlegroups.com)
 [![Github Pages](https://img.shields.io/badge/website-121013?style=for-the-badge&logo=github&logoColor=white)](https://nyust-gdsc.github.io/)
